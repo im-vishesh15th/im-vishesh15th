@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cloud Full Stack Project<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about MERNStack
+🔭 I’m currently working on Full Stack Projects<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about MERN Stack
 
 
 ## 🌐 Socials:
