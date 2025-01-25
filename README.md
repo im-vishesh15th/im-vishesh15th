@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Projects<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about MERN Stack
+🔭 I’m currently working on Full Stack Projects<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about MERN Stack<br>Working on Microservice Architecture<br>Exploring how to mak scalable backend
 
 
 ## 🌐 Socials:
