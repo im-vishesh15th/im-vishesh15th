@@ -1,10 +1,12 @@
-# Hey 👋 I'm Vishesh Gupta  
-
 ### 🚀 Backend Developer | Microservices • Distributed Systems • Open Source  
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQGOZg2Q123kXQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738087685536?e=1775692800&v=beta&t=q23CmL3R_H1hWjz7zmAVER2MDCzByI-2RNQOWFqwmw8" alt="Vishesh Gupta" />
+  <img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/cddfac92-69d2-4499-aa30-f0a9b8853b4a" alt="Vishesh Gupta" />
+
 </p>
+
+<h1 align="center">Hey 👋 I'm Vishesh Gupta</h1>
+<h3 align="center">🚀 Backend Developer | Microservices • Distributed Systems • Open Source</h3>
 
 ---
 - 🔧 Building **scalable backend systems & microservices architectures**
